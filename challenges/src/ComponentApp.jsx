@@ -31,4 +31,4 @@ const ComponentApp = () => {
     );
 };
 
-export default ComponentApp;
+export default ComponentApp

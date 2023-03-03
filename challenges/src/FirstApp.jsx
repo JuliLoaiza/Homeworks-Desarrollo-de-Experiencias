@@ -26,7 +26,4 @@ const FirstApp = ({ value }) => {
     );
 };
 
-
-
-
-export default FirstApp;
+export default FirstApp
